@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaskaura27
-- 👀 I’m interested in Java, C++ and full stack
-- 🌱 I’m currently learning full stack
+- 👀 I’m interested in Java, C++
+- 🌱 I’m currently learning Networking, Data Structures and Algorithms, Economy 101
 - 📫 Reach me at jaskaura27@gmail.com
 
 <!---
